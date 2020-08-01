@@ -25,7 +25,7 @@ pipeline {
         stage('Test App') {
             steps {
                 sh '''
-                    bash -c "source entorno_virtual/bin/activate && cd src && entorno_virtual/bin/python entorno_virtual/bin/pytest && cd .."
+                    bash -c "source entorno_virtual/bin/activate && cd src &&  entorno_virtual/bin/pytest && cd .."
                 ''' 
             }
         }
