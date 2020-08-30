@@ -6,23 +6,23 @@ Server Name; IPAddress; ; MACAddress
 ip-172-31-26-165 ; 172.31.26.165 172.17.0.1 ;   ; 06:a3:5b:3b:79:78 02:42:19:ed:bc:10
 
 
-Server Name: ;  ip-172-31-26-165
-Filesystem; Size; Used; Avail; Use%;
-udev; 488M; 0; 488M; 0%;
-tmpfs; 100M; 9.6M; 90M; 10%;
-/dev/xvda1; 7.7G; 4.9G; 2.9G; 63%;
-tmpfs; 496M; 0; 496M; 0%;
-tmpfs; 5.0M; 0; 5.0M; 0%;
-tmpfs; 496M; 0; 496M; 0%;
-/dev/loop0; 97M; 97M; 0; 100%;
-/dev/loop1; 97M; 97M; 0; 100%;
-/dev/loop2; 18M; 18M; 0; 100%;
-/dev/loop3; 29M; 29M; 0; 100%;
-tmpfs; 100M; 0; 100M; 0%;
-tmpfs; 100M; 0; 100M; 0%;
+Server Name:   ip-172-31-26-165
+Filesystem; Size; Avail; Used; Use%;
+udev; 488M; 488M; 0; 0%;
+tmpfs; 100M; 90M; 9.6M; 10%;
+/dev/xvda1; 7.7G; 2.9G; 4.9G; 63%;
+tmpfs; 496M; 496M; 0; 0%;
+tmpfs; 5.0M; 5.0M; 0; 0%;
+tmpfs; 496M; 496M; 0; 0%;
+/dev/loop0; 97M; 0; 97M; 100%;
+/dev/loop1; 97M; 0; 97M; 100%;
+/dev/loop2; 18M; 0; 18M; 100%;
+/dev/loop3; 29M; 0; 29M; 100%;
+tmpfs; 100M; 100M; 0; 0%;
+tmpfs; 100M; 100M; 0; 0%;
 
 
-Installed Packages on: ;  ip-172-31-26-165
+Installed Packages on:   ip-172-31-26-165
 accountsservice
 acl
 acpid
@@ -697,7 +697,7 @@ zerofree
 zlib1g:amd64
 
 
-Services on: ;  ip-172-31-26-165
+Services on:   ip-172-31-26-165
 [
 +
 ]
