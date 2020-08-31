@@ -1,5 +1,9 @@
-Server Name; Operating System; Total Memory; Amount of CPU; CPU Speed; IPAddress; DNSDomain; MACAddress
-ip-172-31-26-165 ;  Ubuntu 16.04.7 LTS x86_64 ;  990 M ;  1 ;  MHz : 2400.094 ;  172.31.26.165 172.17.0.1 ;  ;  06:a3:5b:3b:79:78 02:42:19:ed:bc:10
+Server Name; Operating System; Total Memory; Amount of CPU; CPU Speed
+ip-172-31-26-165 ;  Ubuntu 16.04.7 LTS x86_64 ;  990 M ;  1 ;  MHz : 2400.094
+
+
+Server Name; IPAddress; ; MACAddress
+ip-172-31-26-165 ; 172.31.26.165 172.17.0.1 ;   ; 06:a3:5b:3b:79:78 02:42:19:ed:bc:10
 
 
 Server Name:   ip-172-31-26-165
